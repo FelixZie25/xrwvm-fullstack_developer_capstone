@@ -124,3 +124,29 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.img_cars {
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px;   
+}
+
+.contact_50
+
+.contact_icon {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.contact_text {
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.contact_text_bold {
+    padding: 0px 0px;
+    margin: 0px 0px;
+    font-weight: 700;
+}
