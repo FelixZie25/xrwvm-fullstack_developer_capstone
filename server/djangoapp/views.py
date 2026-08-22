@@ -10,6 +10,7 @@ from datetime import datetime
 from django.http import JsonResponse
 from django.contrib.auth import login, authenticate
 from .models import CarMake, CarModel
+from .populate import initiate
 import logging
 import json
 from django.views.decorators.csrf import csrf_exempt
